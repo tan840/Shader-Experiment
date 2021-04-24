@@ -4908,3 +4908,187 @@ System memory in use after: 113.9 MB.
 Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 3001.
 Total: 7.005500 ms (FindLiveObjects: 0.459600 ms CreateObjectMapping: 0.169700 ms MarkObjects: 3.574200 ms  DeleteObjects: 2.799400 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 18389.841876 seconds.
+  path: Assets/Materials/ToonShader.mat
+  artifactKey: Guid(e39060d31dec48049a18722132608333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/ToonShader.mat using Guid(e39060d31dec48049a18722132608333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79283c7a55ce1b0fd51aa686598fcfe8') in 13.577340 seconds
+  Import took 18.433151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.361000 seconds.
+  path: Assets/Scenes/Shader Tutorial.unity
+  artifactKey: Guid(1ed424ba68b74f949b1162365ba81c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Shader Tutorial.unity using Guid(1ed424ba68b74f949b1162365ba81c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04802c7c34932538c10591a7c8a580a9') in 0.090598 seconds
+  Import took 0.214402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 172.789545 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(d6d06e057d68b6747b95c43c3db37591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(d6d06e057d68b6747b95c43c3db37591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '791722c7dc5970ca5f1a63fd8ba4d214') in 1.801125 seconds
+  Import took 1.844405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.082823 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e0e235c0f4af3754229b664788db90') in 0.028244 seconds
+  Import took 0.067456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.293716 seconds.
+  path: Assets/Materials/Standard Diffuse.shader
+  artifactKey: Guid(b78b2ae0c10e01745b10206c4cbcad18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Standard Diffuse.shader using Guid(b78b2ae0c10e01745b10206c4cbcad18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67ad08c59f817606a33ea0e951c24972') in 0.394062 seconds
+  Import took 0.452898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.568176 seconds.
+  path: Assets/Materials/DiffuseMaterial.mat
+  artifactKey: Guid(2a8dda1b3a145f148966c7d39410902d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/DiffuseMaterial.mat using Guid(2a8dda1b3a145f148966c7d39410902d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58689fdb7c24e3838e9428123870b9fa') in 2.046361 seconds
+  Import took 2.212502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 109.255757 seconds.
+  path: Assets/Materials/UnlitToonSHader.shader
+  artifactKey: Guid(a5957e460a89e414ea56fbd9ca1f65eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/UnlitToonSHader.shader using Guid(a5957e460a89e414ea56fbd9ca1f65eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7da9582d3cfd52fe7bff9dce933c4f7d') in 0.012947 seconds
+  Import took 0.239943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1902.524600 seconds.
+  path: Assets/Materials/New Scene.unity
+  artifactKey: Guid(2f1eda7f60d5cff4abf86d3a47e501bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Scene.unity using Guid(2f1eda7f60d5cff4abf86d3a47e501bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15c22e2576842a2a04349d450622bec0') in 0.194219 seconds
+  Import took 0.312998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 866.068217 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat
+  artifactKey: Guid(31321ba15b8f8eb4c954353edc038b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat using Guid(31321ba15b8f8eb4c954353edc038b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '440aa291858f9ebd8c7989998d5763dd') in 2.256736 seconds
+  Import took 2.349008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/TerrainLit.mat
+  artifactKey: Guid(594ea882c5a793440b60ff72d896021e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/TerrainLit.mat using Guid(594ea882c5a793440b60ff72d896021e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f776e08ea45f7ce142979fc06091173') in 1.982027 seconds
+  Import took 2.143785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000680 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Unlit-Default.mat
+  artifactKey: Guid(9dfc825aed78fcd4ba02077103263b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Unlit-Default.mat using Guid(9dfc825aed78fcd4ba02077103263b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a354bad8881e88226b48e2c553b7987') in 0.369358 seconds
+  Import took 0.403501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/SimpleLit.mat
+  artifactKey: Guid(6a1143ee683302f4aa628c052723efc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/SimpleLit.mat using Guid(6a1143ee683302f4aa628c052723efc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fc8a2dbe1313f247e3f349e67b598ca') in 1.040491 seconds
+  Import took 1.133548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Lit-Default.mat
+  artifactKey: Guid(a97c105638bdf8b4a8650670310a4cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Lit-Default.mat using Guid(a97c105638bdf8b4a8650670310a4cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b2db26dacd39c78d9c5a19f1c4cfa5a') in 0.179455 seconds
+  Import took 0.201136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat
+  artifactKey: Guid(31321ba15b8f8eb4c954353edc038b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat using Guid(31321ba15b8f8eb4c954353edc038b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '440aa291858f9ebd8c7989998d5763dd') in 0.018558 seconds
+  Import took 0.064582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/ParticlesUnlit.mat
+  artifactKey: Guid(e823cd5b5d27c0f4b8256e7c12ee3e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/ParticlesUnlit.mat using Guid(e823cd5b5d27c0f4b8256e7c12ee3e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56ac2aae8735c522c28f80e866422af7') in 0.246935 seconds
+  Import took 0.361910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.325575 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/PhysicalMaterial3DsMax
+  artifactKey: Guid(6008daaf28fd58349b70105e46e2a92b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/PhysicalMaterial3DsMax using Guid(6008daaf28fd58349b70105e46e2a92b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2bba5e5714f0e7e6f5cddf2a72fab69') in 0.060333 seconds
+  Import took 0.100643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.204369 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/PhysicalMaterial3DsMax/PhysicalMaterial3DsMaxTransparent.shadergraph
+  artifactKey: Guid(1a207e3bee00db44b940e6f362a8e148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/PhysicalMaterial3DsMax/PhysicalMaterial3DsMaxTransparent.shadergraph using Guid(1a207e3bee00db44b940e6f362a8e148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '935c0ae8abcb63cd7536cdd17162f245') in 0.281190 seconds
+  Import took 0.352332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.034571 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/PhysicalMaterial3DsMax/PhysicalMaterial3DsMaxTransparent.shadergraph
+  artifactKey: Guid(1a207e3bee00db44b940e6f362a8e148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/PhysicalMaterial3DsMax/PhysicalMaterial3DsMaxTransparent.shadergraph using Guid(1a207e3bee00db44b940e6f362a8e148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '935c0ae8abcb63cd7536cdd17162f245') in 0.008379 seconds
+  Import took 0.015670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.379099 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/PhysicalMaterial3DsMax/PhysicalMaterial3DsMax.shadergraph
+  artifactKey: Guid(44245ab89240f51459a5077d7145c452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/PhysicalMaterial3DsMax/PhysicalMaterial3DsMax.shadergraph using Guid(44245ab89240f51459a5077d7145c452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f07a5ba87f9dc4a2b673db36202e5cc') in 0.034041 seconds
+  Import took 0.081159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.763946 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/PhysicalMaterial3DsMax/PhysicalMaterial3DsMax.shadergraph
+  artifactKey: Guid(44245ab89240f51459a5077d7145c452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/PhysicalMaterial3DsMax/PhysicalMaterial3DsMax.shadergraph using Guid(44245ab89240f51459a5077d7145c452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f07a5ba87f9dc4a2b673db36202e5cc') in 0.010337 seconds
+  Import took 0.021025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.151466 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/ArnoldStandardSurface
+  artifactKey: Guid(dadc0db69503dfa4eb1c96a19590f95c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/ArnoldStandardSurface using Guid(dadc0db69503dfa4eb1c96a19590f95c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '656610c92036a84f3d355261c0faab80') in 0.080170 seconds
+  Import took 0.109646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.882617 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/ArnoldStandardSurface/ArnoldStandardSurfaceTransparent.shadergraph
+  artifactKey: Guid(30fa68ce467463643a86b839ca0eb195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/ArnoldStandardSurface/ArnoldStandardSurfaceTransparent.shadergraph using Guid(30fa68ce467463643a86b839ca0eb195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cab041b726385c9ad582009cc84120af') in 0.026482 seconds
+  Import took 0.042908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.683991 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/ArnoldStandardSurface/ArnoldStandardSurfaceTransparent.shadergraph
+  artifactKey: Guid(30fa68ce467463643a86b839ca0eb195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/ArnoldStandardSurface/ArnoldStandardSurfaceTransparent.shadergraph using Guid(30fa68ce467463643a86b839ca0eb195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cab041b726385c9ad582009cc84120af') in 0.008506 seconds
+  Import took 0.015052 seconds .
+
